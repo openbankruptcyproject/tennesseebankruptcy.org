@@ -91,6 +91,10 @@ td{color:#c9d1d9}
 .compare-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:20px 0}
 .compare-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:20px}
 .compare-card h3{font-size:1.1rem;margin-bottom:10px}
+.city-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:20px;margin:20px 0}
+.city-card{background:#161b22;border:1px solid #30363d;border-radius:8px;padding:24px;text-align:center}
+.city-card h3{margin-bottom:8px}
+.city-card .pop{color:#58a6ff;font-size:1.4rem;font-weight:700}
 @media(max-width:768px){.hero h1{font-size:1.7rem}.stats-row{grid-template-columns:1fr 1fr}.stat-card .number{font-size:1.6rem}.compare-grid{grid-template-columns:1fr}}
 @media(max-width:480px){.stats-row{grid-template-columns:1fr}}
 </style>
@@ -224,7 +228,39 @@ td{color:#c9d1d9}
 <div class="card">
 <h3>Tennessee City Guides</h3>
 <p>Looking for city-specific information? See our detailed guides:</p>
-<div class="network-links" style="margin-top:8px"><a href="https://memphisbankruptcy.org">Memphis Bankruptcy Guide</a> </div>
+<div class="city-grid">
+<div class="city-card">
+<h3><a href="/memphis/">Memphis</a></h3>
+<div class="pop">W.D. Tenn.</div>
+<p style="margin-top:8px;color:#f85149;font-weight:600">79.6% Ch. 13 Dismissal Rate</p>
+<p style="color:#8b949e;font-size:0.85rem">15 pages + 8 suburb guides</p>
+<a href="/memphis/">Memphis Guide &rarr;</a>
+</div>
+<div class="city-card">
+<h3><a href="/nashville/">Nashville</a></h3>
+<div class="pop">M.D. Tenn.</div>
+<p style="margin-top:8px">701 Broadway, Nashville, TN 37203</p>
+<p style="color:#8b949e;font-size:0.85rem">10 pages + 6 suburb guides</p>
+<a href="/nashville/">Nashville Guide &rarr;</a>
+</div>
+<div class="city-card">
+<h3><a href="/knoxville/">Knoxville</a></h3>
+<div class="pop">E.D. Tenn.</div>
+<p style="margin-top:8px">800 Market St, Knoxville, TN 37902</p>
+<p style="color:#8b949e;font-size:0.85rem">5 pages</p>
+<a href="/knoxville/">Knoxville Guide &rarr;</a>
+</div>
+<div class="city-card">
+<h3><a href="/chattanooga/">Chattanooga</a></h3>
+<div class="pop">E.D. Tenn.</div>
+<p style="margin-top:8px">900 Georgia Ave, Chattanooga, TN 37402</p>
+<p style="color:#8b949e;font-size:0.85rem">5 pages</p>
+<a href="/chattanooga/">Chattanooga Guide &rarr;</a>
+</div>
+</div>
+<div class="network-links" style="margin-top:12px">
+<a href="https://memphisbankruptcy.org">Memphis Bankruptcy Guide</a>
+</div>
 </div>
 <div class="network">
 <h3>Browse Other States</h3>
