@@ -273,4 +273,15 @@ main{max-width:820px;margin:0 auto;padding:2rem 1.5rem}
 
 <script src="/btn-engage.js" defer></script>
 <script>
-document.querySelectorAll('.faq-i
+document.querySelectorAll('.faq-item').forEach(function(item){
+  item.querySelector('.faq-q').addEventListener('click',function(){
+    item.classList.toggle('open');
+  });
+});
+document.querySelector('.hamburger')&&document.querySelector('.hamburger').addEventListener('click',function(){
+  document.querySelector('.nav-links').classList.toggle('open');
+});
+</script>
+
+</body>
+</html>
