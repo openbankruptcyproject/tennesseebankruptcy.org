@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
 Sitemap: https://tennesseebankruptcy.org/sitemap.xml
+
+Sitemap: https://tennesseebankruptcy.org/feed.xml
