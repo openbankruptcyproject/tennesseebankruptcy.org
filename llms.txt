@@ -1,0 +1,105 @@
+# Tennessee Bankruptcy -- Chapter 7 & 13 Filing Guide [2026]
+> Free Tennessee bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Tennessee exemptions, filing costs, means test, and what to expect in your case.
+
+## About
+tennesseebankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
+
+## Key Pages
+- Tennessee Bankruptcy -- Chapter 7 & 13 Filing Guide: https://tennesseebankruptcy.org/
+- Chapter 7 Bankruptcy in Tennessee -- Eligibility, Exemptions, Timeline: https://tennesseebankruptcy.org/chapter-7.html
+- Chapter 13 Bankruptcy in Tennessee -- Payment Plans, Timeline: https://tennesseebankruptcy.org/chapter-13.html
+- Tennessee Bankruptcy Exemptions -- What You Can Keep: https://tennesseebankruptcy.org/exemptions.html
+- How Much Does Bankruptcy Cost in Tennessee? -- Filing Fees, Attorney Fees: https://tennesseebankruptcy.org/cost.html
+- Tennessee Bankruptcy FAQ -- 15 Common Questions Answered: https://tennesseebankruptcy.org/faq.html
+- Tennessee Bankruptcy Statistics -- Filing Data and Trends: https://tennesseebankruptcy.org/statistics.html
+- Tennessee Bankruptcy Resources -- Courts, Legal Aid, Credit Counseling: https://tennesseebankruptcy.org/resources.html
+- Bankruptcy in Memphis, Tennessee -- Complete Guide: https://tennesseebankruptcy.org/memphis/
+- Chapter 7 Bankruptcy in Memphis -- Eligibility, Exemptions, Timeline -- Tennessee: https://tennesseebankruptcy.org/memphis/chapter-7.html
+- Chapter 13 Bankruptcy in Memphis -- Repayment Plan Guide -- Tennessee: https://tennesseebankruptcy.org/memphis/chapter-13.html
+- Memphis Bankruptcy Exemptions -- State vs Federal -- Tennessee: https://tennesseebankruptcy.org/memphis/exemptions.html
+- How Much Does Bankruptcy Cost in Memphis? -- Tennessee: https://tennesseebankruptcy.org/memphis/cost.html
+- Memphis Bankruptcy FAQ -- Common Questions Answered -- Tennessee: https://tennesseebankruptcy.org/memphis/faq.html
+- Memphis Means Test -- Do You Qualify for Chapter 7? -- Tennessee: https://tennesseebankruptcy.org/memphis/means-test.html
+- The Automatic Stay in Memphis Bankruptcy -- Tennessee: https://tennesseebankruptcy.org/memphis/automatic-stay.html
+- Can You Keep Your Car in Memphis Bankruptcy? -- Tennessee: https://tennesseebankruptcy.org/memphis/keep-your-car.html
+- Can You Keep Your House in Memphis Bankruptcy? -- Tennessee: https://tennesseebankruptcy.org/memphis/keep-your-house.html
+- Eliminating Medical Debt in Memphis Bankruptcy -- Tennessee: https://tennesseebankruptcy.org/memphis/medical-debt.html
+- The 341 Meeting in Memphis -- What to Expect -- Tennessee: https://tennesseebankruptcy.org/memphis/341-meeting.html
+- Memphis Bankruptcy Timeline -- How Long Does It Take? -- Tennessee: https://tennesseebankruptcy.org/memphis/timeline.html
+- Memphis Bankruptcy Filing Checklist -- Tennessee: https://tennesseebankruptcy.org/memphis/checklist.html
+- Rebuilding Credit After Bankruptcy in Memphis -- Tennessee: https://tennesseebankruptcy.org/memphis/credit-after-bankruptcy.html
+- Bankruptcy in Germantown, TN -- Tennessee: https://tennesseebankruptcy.org/memphis/suburbs/germantown.html
+- Bankruptcy in Collierville, TN -- Tennessee: https://tennesseebankruptcy.org/memphis/suburbs/collierville.html
+- Bankruptcy in Bartlett, TN -- Tennessee: https://tennesseebankruptcy.org/memphis/suburbs/bartlett.html
+- Bankruptcy in Southaven, MS -- Tennessee: https://tennesseebankruptcy.org/memphis/suburbs/southaven-ms.html
+- Bankruptcy in Olive Branch, MS -- Tennessee: https://tennesseebankruptcy.org/memphis/suburbs/olive-branch-ms.html
+- Bankruptcy in Lakeland, TN -- Tennessee: https://tennesseebankruptcy.org/memphis/suburbs/lakeland.html
+- Bankruptcy in Arlington, TN -- Tennessee: https://tennesseebankruptcy.org/memphis/suburbs/arlington.html
+- Bankruptcy in Millington, TN -- Tennessee: https://tennesseebankruptcy.org/memphis/suburbs/millington.html
+- Bankruptcy in Nashville, Tennessee -- Complete Guide: https://tennesseebankruptcy.org/nashville/
+- Chapter 7 Bankruptcy in Nashville -- Tennessee: https://tennesseebankruptcy.org/nashville/chapter-7.html
+- Chapter 13 Bankruptcy in Nashville -- Tennessee: https://tennesseebankruptcy.org/nashville/chapter-13.html
+- Nashville Bankruptcy Exemptions -- State vs Federal -- Tennessee: https://tennesseebankruptcy.org/nashville/exemptions.html
+- How Much Does Bankruptcy Cost in Nashville? -- Tennessee: https://tennesseebankruptcy.org/nashville/cost.html
+- Nashville Bankruptcy FAQ -- Common Questions Answered -- Tennessee: https://tennesseebankruptcy.org/nashville/faq.html
+- Nashville Means Test -- Do You Qualify for Chapter 7? -- Tennessee: https://tennesseebankruptcy.org/nashville/means-test.html
+- Can You Keep Your Car in Nashville Bankruptcy? -- Tennessee: https://tennesseebankruptcy.org/nashville/keep-your-car.html
+- Can You Keep Your House in Nashville Bankruptcy? -- Tennessee: https://tennesseebankruptcy.org/nashville/keep-your-house.html
+- The 341 Meeting in Nashville -- What to Expect -- Tennessee: https://tennesseebankruptcy.org/nashville/341-meeting.html
+- Bankruptcy in Murfreesboro, TN -- Tennessee: https://tennesseebankruptcy.org/nashville/suburbs/murfreesboro.html
+- Bankruptcy in Franklin, TN -- Tennessee: https://tennesseebankruptcy.org/nashville/suburbs/franklin.html
+- Bankruptcy in Hendersonville, TN -- Tennessee: https://tennesseebankruptcy.org/nashville/suburbs/hendersonville.html
+- Bankruptcy in Gallatin, TN -- Tennessee: https://tennesseebankruptcy.org/nashville/suburbs/gallatin.html
+- Bankruptcy in Lebanon, TN -- Tennessee: https://tennesseebankruptcy.org/nashville/suburbs/lebanon.html
+- Bankruptcy in Clarksville, TN -- Tennessee: https://tennesseebankruptcy.org/nashville/suburbs/clarksville.html
+- Bankruptcy in Knoxville, Tennessee -- Complete Guide: https://tennesseebankruptcy.org/knoxville/
+- Chapter 7 Bankruptcy in Knoxville -- Tennessee: https://tennesseebankruptcy.org/knoxville/chapter-7.html
+- Chapter 13 Bankruptcy in Knoxville -- Tennessee: https://tennesseebankruptcy.org/knoxville/chapter-13.html
+- Knoxville Bankruptcy Exemptions -- State vs Federal -- Tennessee: https://tennesseebankruptcy.org/knoxville/exemptions.html
+- Knoxville Bankruptcy FAQ -- Tennessee: https://tennesseebankruptcy.org/knoxville/faq.html
+- Bankruptcy in Chattanooga, Tennessee -- Complete Guide: https://tennesseebankruptcy.org/chattanooga/
+- Chapter 7 Bankruptcy in Chattanooga -- Tennessee: https://tennesseebankruptcy.org/chattanooga/chapter-7.html
+- Chapter 13 Bankruptcy in Chattanooga -- Tennessee: https://tennesseebankruptcy.org/chattanooga/chapter-13.html
+- Chattanooga Bankruptcy Exemptions -- State vs Federal -- Tennessee: https://tennesseebankruptcy.org/chattanooga/exemptions.html
+- Chattanooga Bankruptcy FAQ -- Tennessee: https://tennesseebankruptcy.org/chattanooga/faq.html
+- Emergency Bankruptcy Filing in Tennessee: https://tennesseebankruptcy.org/emergency-bankruptcy.html
+- Divorce and Bankruptcy in Tennessee: https://tennesseebankruptcy.org/divorce-and-bankruptcy.html
+- Credit Card Debt and Bankruptcy in Tennessee: https://tennesseebankruptcy.org/credit-card-debt.html
+- Converting Bankruptcy Chapters in Tennessee: https://tennesseebankruptcy.org/converting-chapters.html
+- Chapter 7 Bankruptcy Eligibility in Tennessee: https://tennesseebankruptcy.org/chapter-7-eligibility.html
+- Chapter 13 Bankruptcy Eligibility in Tennessee: https://tennesseebankruptcy.org/chapter-13-eligibility.html
+- Buying a House After Bankruptcy in Tennessee: https://tennesseebankruptcy.org/buying-a-house.html
+- Tennessee Bankruptcy Glossary: https://tennesseebankruptcy.org/glossary.html
+- Payday Loans and Bankruptcy in Tennessee: https://tennesseebankruptcy.org/payday-loans.html
+- Judgments and Bankruptcy in Tennessee: https://tennesseebankruptcy.org/judgments.html
+- Second Mortgages and Bankruptcy in Tennessee: https://tennesseebankruptcy.org/second-mortgage.html
+- Bank Accounts and Bankruptcy in Tennessee: https://tennesseebankruptcy.org/bank-account.html
+- Chapter 13 Payments in Tennessee: https://tennesseebankruptcy.org/chapter-13-payments.html
+- Bankruptcy Income Limits in Tennessee: https://tennesseebankruptcy.org/income-limits.html
+- Bankruptcy Disqualifications in Tennessee: https://tennesseebankruptcy.org/disqualifications.html
+- Can I Buy a Car While in Chapter 13 in Tennessee?: https://tennesseebankruptcy.org/buy-car-chapter-13.html
+- Can Bankruptcy Stop an Eviction in Tennessee?: https://tennesseebankruptcy.org/eviction.html
+- Car Leases and Bankruptcy in Tennessee: https://tennesseebankruptcy.org/car-lease.html
+- Timeshares and Bankruptcy in Tennessee: https://tennesseebankruptcy.org/timeshare.html
+- Can I Travel During Chapter 13 in Tennessee?: https://tennesseebankruptcy.org/travel-chapter-13.html
+- What Bills to Stop Paying Before Bankruptcy in Tennessee: https://tennesseebankruptcy.org/stop-paying-bills.html
+- Using Credit Cards Before Bankruptcy in Tennessee: https://tennesseebankruptcy.org/credit-cards-before-filing.html
+- How to Find Bankruptcy Filings in Tennessee: https://tennesseebankruptcy.org/find-bankruptcy-filing.html
+- Repossession and Credit Reports After Bankruptcy in Tennessee: https://tennesseebankruptcy.org/repo-credit-report.html
+- Can I Keep My Jewelry in Tennessee Bankruptcy?: https://tennesseebankruptcy.org/engagement-ring.html
+- Can I Keep My 401k and Retirement in Tennessee Bankruptcy?: https://tennesseebankruptcy.org/retirement-accounts.html
+- Renting After Bankruptcy in Tennessee -- Landlord Screening, Tips, Tenant Rights: https://tennesseebankruptcy.org/renting-after-bankruptcy.html
+- Bankruptcy and Security Clearance in Tennessee -- Will I Lose My Clearance?: https://tennesseebankruptcy.org/security-clearance.html
+- Undoing a Reaffirmation Agreement in Tennessee -- 60-Day Rescission, Options: https://tennesseebankruptcy.org/reaffirmation-regret.html
+- Tax Refunds and Chapter 13 in Tennessee -- Trustee Practices, Protecting Your Refund: https://tennesseebankruptcy.org/tax-refund-chapter13.html
+- Surrendering Your Car in Tennessee Bankruptcy -- Process, Deficiency, Options: https://tennesseebankruptcy.org/surrender-car.html
+- Filing Bankruptcy for Medical Debt in Tennessee -- Discharge, Alternatives, Protections: https://tennesseebankruptcy.org/medical-debt-only.html
+- Bankruptcy and Employment in Tennessee -- Discrimination, Hiring, Your Rights: https://tennesseebankruptcy.org/employment.html
+
+## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
+
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
