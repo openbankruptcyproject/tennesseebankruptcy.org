@@ -681,7 +681,7 @@ memphis_topic("means-test", "Means Test",
     "Memphis Means Test -- Do You Qualify for Chapter 7?",
     "How the bankruptcy means test works for Memphis residents. Tennessee median income thresholds and step-by-step walkthrough.",
     "The means test determines whether you can file Chapter 7 bankruptcy. It compares your income to the Tennessee state median for your household size.",
-    f"""<section><div class="container">
+    """<section><div class="container">
 <h2>2026 Tennessee Median Income Thresholds</h2>
 <div class="card"><table>
 <thead><tr><th>Household Size</th><th>Annual Median</th><th>Monthly</th></tr></thead>
@@ -726,7 +726,7 @@ memphis_topic("automatic-stay", "Automatic Stay",
     "The Automatic Stay in Memphis Bankruptcy",
     "How the automatic stay protects Memphis residents when filing bankruptcy. Stops foreclosure, repossession, garnishment, and lawsuits immediately.",
     "The moment you file bankruptcy, the automatic stay stops most collection actions against you. This is one of the most powerful protections in bankruptcy law.",
-    f"""<section><div class="container">
+    """<section><div class="container">
 <h2>What the Automatic Stay Stops</h2>
 <div class="compare-grid">
 <div class="compare-card" style="border-color:#3fb950">
@@ -776,7 +776,7 @@ memphis_topic("keep-your-car", "Keep Your Car",
     "Can You Keep Your Car in Memphis Bankruptcy?",
     "How to protect your vehicle when filing bankruptcy in Memphis. Tennessee exemptions, reaffirmation, and redemption options.",
     "Most Memphis residents can keep their car when filing bankruptcy. Here is how to protect your vehicle using Tennessee or federal exemptions.",
-    f"""<section><div class="container">
+    """<section><div class="container">
 <h2>Vehicle Exemptions</h2>
 <div class="card">
 <table>
@@ -808,7 +808,7 @@ memphis_topic("keep-your-house", "Keep Your House",
     "Can You Keep Your House in Memphis Bankruptcy?",
     "How to protect your home when filing bankruptcy in Memphis. Tennessee vs federal homestead exemption comparison. Non-judicial foreclosure state.",
     "Tennessee has a low state homestead exemption, but you can choose federal exemptions -- which protect far more equity. Here is how to keep your home.",
-    f"""<section><div class="container">
+    """<section><div class="container">
 <h2>Homestead Exemption Comparison</h2>
 <div class="card">
 <table>
@@ -858,7 +858,7 @@ memphis_topic("medical-debt", "Medical Debt",
     "Eliminating Medical Debt in Memphis Bankruptcy",
     "How Memphis residents can eliminate medical debt through bankruptcy. Medical bills are fully dischargeable in Chapter 7 and Chapter 13.",
     "Medical debt is the leading cause of bankruptcy in America. In Memphis, medical bills are fully dischargeable in both Chapter 7 and Chapter 13.",
-    f"""<section><div class="container">
+    """<section><div class="container">
 <h2>Medical Debt in Bankruptcy</h2>
 <div class="card">
 <div class="quick-answer">Medical debt is 100% dischargeable in bankruptcy. It is treated as general unsecured debt with no special protections for creditors.</div>
@@ -938,7 +938,7 @@ memphis_topic("timeline", "Timeline",
     "Memphis Bankruptcy Timeline -- How Long Does It Take?",
     "Step-by-step timeline for filing bankruptcy in Memphis. Chapter 7 takes 3-4 months. Chapter 13 takes 3-5 years.",
     "From pre-filing preparation to discharge, here is a detailed timeline for filing bankruptcy in Memphis.",
-    f"""<section><div class="container">
+    """<section><div class="container">
 <h2>Chapter 7 Timeline</h2>
 <div class="card">
 <div class="step"><span class="step-number">1</span><strong>Before filing:</strong> Complete credit counseling course (up to 180 days before)</div>
@@ -974,7 +974,7 @@ memphis_topic("checklist", "Checklist",
     "Memphis Bankruptcy Filing Checklist",
     "Complete checklist for filing bankruptcy in Memphis. Documents needed, steps to take, and common mistakes to avoid.",
     "Use this checklist to prepare for your Memphis bankruptcy filing. Proper preparation helps ensure a smooth process.",
-    f"""<section><div class="container">
+    """<section><div class="container">
 <h2>Documents to Gather</h2>
 <div class="card">
 <ul>
@@ -1030,7 +1030,7 @@ memphis_topic("credit-after-bankruptcy", "Credit After Bankruptcy",
     "Rebuilding Credit After Bankruptcy in Memphis",
     "How to rebuild your credit score after filing bankruptcy in Memphis. Timeline, strategies, and realistic expectations.",
     "Bankruptcy is not the end of your financial life -- it is a fresh start. Here is how to rebuild your credit after filing in Memphis.",
-    f"""<section><div class="container">
+    """<section><div class="container">
 <h2>Credit Report Timeline</h2>
 <div class="card">
 <table>
@@ -1392,7 +1392,7 @@ nash_topic("chapter-13", "Chapter 13",
     "Chapter 13 Bankruptcy in Nashville",
     "Guide to Chapter 13 bankruptcy in Nashville. Repayment plan, timeline, how to save your home and car in M.D. Tenn.",
     "Chapter 13 lets you keep your property while repaying debts over 3-5 years. Here is what Nashville filers need to know.",
-    f"""<section><div class="container">
+    """<section><div class="container">
 <h2>How Chapter 13 Works</h2>
 <div class="card">
 <p>You propose a repayment plan paying back some or all debts over 3-5 years. Monthly payments go to a trustee. Useful for saving homes from foreclosure and catching up on car payments.</p>
@@ -1495,7 +1495,7 @@ nash_topic("means-test", "Means Test",
     "Nashville Means Test -- Do You Qualify for Chapter 7?",
     "How the bankruptcy means test works for Nashville residents. Tennessee median income and step-by-step walkthrough.",
     "The means test determines Chapter 7 eligibility by comparing your income to Tennessee's state median.",
-    f"""<section><div class="container">
+    """<section><div class="container">
 <h2>2026 Tennessee Median Income</h2>
 <div class="card"><table>
 <thead><tr><th>Household</th><th>Annual</th><th>Monthly</th></tr></thead>
@@ -1517,7 +1517,7 @@ nash_topic("keep-your-car", "Keep Your Car",
     "Can You Keep Your Car in Nashville Bankruptcy?",
     "Protect your vehicle in Nashville bankruptcy. Tennessee exemptions, reaffirmation, and redemption options.",
     "Most Nashville residents can keep their car in bankruptcy. Here is how.",
-    f"""<section><div class="container">
+    """<section><div class="container">
 <h2>Vehicle Exemptions</h2>
 <div class="card">
 <table>
@@ -1546,7 +1546,7 @@ nash_topic("keep-your-house", "Keep Your House",
     "Can You Keep Your House in Nashville Bankruptcy?",
     "Protect your home in Nashville bankruptcy. Tennessee vs federal homestead exemption. Non-judicial foreclosure.",
     "Tennessee has a low state homestead exemption, but you can choose federal exemptions for much better protection.",
-    f"""<section><div class="container">
+    """<section><div class="container">
 <h2>Homestead Exemption Comparison</h2>
 <div class="card">
 <table>
@@ -1762,7 +1762,7 @@ knox_topic("chapter-13", "Chapter 13",
     "Chapter 13 Bankruptcy in Knoxville",
     "Guide to Chapter 13 in Knoxville, TN. Repayment plan, save your home, E.D. Tenn. filing.",
     "Chapter 13 lets you keep property while repaying debts over 3-5 years.",
-    f"""<section><div class="container">
+    """<section><div class="container">
 <h2>How Chapter 13 Works</h2>
 <div class="card">
 <p>Propose a repayment plan over 3-5 years. Keep your home and car while catching up on arrears. No means test.</p>
@@ -1957,7 +1957,7 @@ chatt_topic("chapter-13", "Chapter 13",
     "Chapter 13 Bankruptcy in Chattanooga",
     "Guide to Chapter 13 in Chattanooga, TN. Repayment plan, save your home, E.D. Tenn. Chattanooga Division.",
     "Chapter 13 lets you keep property while repaying debts over 3-5 years.",
-    f"""<section><div class="container">
+    """<section><div class="container">
 <h2>How Chapter 13 Works</h2>
 <div class="card">
 <p>Propose a repayment plan over 3-5 years. Keep your home and car while catching up on arrears.</p>
