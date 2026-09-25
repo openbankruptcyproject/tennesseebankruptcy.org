@@ -1,5 +1,5 @@
-# Tennessee Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# Tennessee Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
 > Free Tennessee bankruptcy guide for 2026. Compare Chapter 7 vs Chapter 13, Tennessee exemptions, filing costs, means test, and what to expect in your case.
 
@@ -32,11 +32,11 @@ tennesseebankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypr
 - Can I Keep My Jewelry in Tennessee Bankruptcy?: https://tennesseebankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction in Tennessee?: https://tennesseebankruptcy.org/eviction.html
 - Tennessee Bankruptcy Exemptions - What You Can Keep: https://tennesseebankruptcy.org/exemptions.html
-- Tennessee Bankruptcy FAQ - 15 Common Questions Answered: https://tennesseebankruptcy.org/faq.html
+- Tennessee Bankruptcy FAQ [2026]: Filing Fees, Exemptions, and Three Federal Districts: https://tennesseebankruptcy.org/faq.html
 - How to Find Bankruptcy Filings in Tennessee: https://tennesseebankruptcy.org/find-bankruptcy-filing.html
 - Tennessee Bankruptcy Glossary: https://tennesseebankruptcy.org/glossary.html
 - Bankruptcy Income Limits in Tennessee: https://tennesseebankruptcy.org/income-limits.html
-- Tennessee Bankruptcy - Chapter 7 & 13 Filing Guide: https://tennesseebankruptcy.org/
+- Tennessee Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://tennesseebankruptcy.org/
 - Judgments and Bankruptcy in Tennessee: https://tennesseebankruptcy.org/judgments.html
 - Chapter 13 Bankruptcy in Knoxville - Tennessee: https://tennesseebankruptcy.org/knoxville/chapter-13.html
 - Chapter 7 Bankruptcy in Knoxville - Tennessee: https://tennesseebankruptcy.org/knoxville/chapter-7.html
@@ -47,7 +47,7 @@ tennesseebankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypr
 - The 341 Meeting in Memphis - What to Expect - Tennessee: https://tennesseebankruptcy.org/memphis/341-meeting.html
 - The Automatic Stay in Memphis Bankruptcy - Tennessee: https://tennesseebankruptcy.org/memphis/automatic-stay.html
 - Chapter 13 Bankruptcy in Memphis - Repayment Plan Guide - Tennessee: https://tennesseebankruptcy.org/memphis/chapter-13.html
-- Chapter 7 Bankruptcy in Memphis - Eligibility, Exemptions, Timeline - Tennessee: https://tennesseebankruptcy.org/memphis/chapter-7.html
+- Chapter 7 Bankruptcy in Memphis - Eligibility, Exemptions, Timeline: https://tennesseebankruptcy.org/memphis/chapter-7.html
 - Memphis Bankruptcy Filing Checklist - Tennessee: https://tennesseebankruptcy.org/memphis/checklist.html
 - How Much Does Bankruptcy Cost in Memphis? - Tennessee: https://tennesseebankruptcy.org/memphis/cost.html
 - Rebuilding Credit After Bankruptcy in Memphis - Tennessee: https://tennesseebankruptcy.org/memphis/credit-after-bankruptcy.html
@@ -91,13 +91,18 @@ tennesseebankruptcy.org is part of the Open Bankruptcy Project (openbankruptcypr
 - Can I Keep My 401k and Retirement in Tennessee Bankruptcy?: https://tennesseebankruptcy.org/retirement-accounts.html
 - Second Mortgages and Bankruptcy in Tennessee: https://tennesseebankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance in Tennessee - Will I Lose My Clearance?: https://tennesseebankruptcy.org/security-clearance.html
-- Tennessee Bankruptcy Statistics - Filing Data and Trends: https://tennesseebankruptcy.org/statistics.html
+- Tennessee Bankruptcy Statistics [2026]: Eastern, Middle, and Western District Filing Trends: https://tennesseebankruptcy.org/statistics.html
 - What Bills to Stop Paying Before Bankruptcy in Tennessee: https://tennesseebankruptcy.org/stop-paying-bills.html
 - Surrendering Your Car in Tennessee Bankruptcy - Process, Deficiency, Options: https://tennesseebankruptcy.org/surrender-car.html
 - Tax Refunds and Chapter 13 in Tennessee - Trustee Practices, Protecting Your Refund: https://tennesseebankruptcy.org/tax-refund-chapter13.html
 - Timeshares and Bankruptcy in Tennessee: https://tennesseebankruptcy.org/timeshare.html
 - Can I Travel During Chapter 13 in Tennessee?: https://tennesseebankruptcy.org/travel-chapter-13.html
 - Privacy Policy: https://tennesseebankruptcy.org/privacy.html
+- About tennesseebankruptcy.org: https://tennesseebankruptcy.org/about.html
+- Credit After Bankruptcy in Tennessee: https://tennesseebankruptcy.org/credit-after-bankruptcy.html
+- Keep Your Car in Tennessee Bankruptcy: https://tennesseebankruptcy.org/keep-your-car.html
+- Keep Your House in Tennessee Bankruptcy: https://tennesseebankruptcy.org/keep-your-house.html
+- Wage Garnishment in Tennessee: How to Stop It: https://tennesseebankruptcy.org/wage-garnishment.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
