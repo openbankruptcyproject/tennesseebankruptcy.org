@@ -636,7 +636,7 @@ Regular contributions from a spouse or household member
 
 2. Debt Limits
 
-Your total debts (secured plus unsecured) must not exceed $2,750,000. This combined limit was established by the Bankruptcy Threshold Adjustment and Technical Corrections Act of 2022.
+Under Section 109(e), your noncontingent, liquidated unsecured debts must be less than $526,700, and your noncontingent, liquidated secured debts must be less than $1,580,125. These limits adjust every three years (most recently on April 1, 2025). From June 2022 to June 21, 2024, a temporary law combined these into a single $2,750,000 limit; that provision expired.
 
 3. Tax Filing
 
@@ -684,7 +684,7 @@ Frequently Asked Questions
 
 What are the debt limits for Chapter 13 in Tennessee?
 
-As of 2024, the debt limit for Chapter 13 is $2,750,000 in combined secured and unsecured debts. This limit was updated by the Bankruptcy Threshold Adjustment and Technical Corrections Act. If your debts exceed this amount, you may need to file Chapter 11 instead.
+Under Section 109(e) of the Bankruptcy Code, Chapter 13 has two separate debt limits: noncontingent, liquidated unsecured debts must be less than $526,700, and noncontingent, liquidated secured debts must be less than $1,580,125. These limits adjust every three years (most recently on April 1, 2025). From June 2022 to June 21, 2024, a temporary law combined these into a single $2,750,000 limit; that provision expired. If your debts exceed either limit, you may need to file Chapter 11 instead.
 
 Do I need regular income to file Chapter 13?
 
@@ -1279,11 +1279,11 @@ PropertyTennessee Exemption
 
 Homestead$5,000 / $7,500
 
-VehicleNo specific vehicle exemption under state law (federal: $4,450)
+VehicleNo specific vehicle exemption under state law (federal: $5,025)
 
 Household goods$4,000 total (state)
 
-Wildcard$10,000 (state wildcard); federal: $1,475 + up to $13,950 unused homestead
+Wildcard$10,000 (state wildcard); federal: $1,675 + up to $15,800 unused homestead
 
 Tools of trade$1,900
 
@@ -1321,7 +1321,7 @@ From filing to discharge, Chapter 7 typically takes 3-4 months. The 341 meeting 
 
 What property can I keep in Chapter 7 in Tennessee?
 
-Tennessee exemptions protect: homestead equity up to $5,000 / $7,500, vehicle equity up to No specific vehicle exemption under state law (federal: $4,450), household goods up to $4,000 total (state), and retirement accounts are fully exempt. Full exemption details.
+Tennessee exemptions protect: homestead equity up to $5,000 / $7,500, vehicle equity up to No specific vehicle exemption under state law (federal: $5,025), household goods up to $4,000 total (state), and retirement accounts are fully exempt. Full exemption details.
 
 Check Your Eligibility
 
@@ -1614,13 +1614,13 @@ Exemption Comparison
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -1733,7 +1733,7 @@ Chapter 7: $1,238-$2,188. Chapter 13: $2,838-$4,363.
 
 State or federal exemptions?
 
-Your choice. Federal homestead ($27,900) is higher. Compare.
+Your choice. Federal homestead ($31,575) is higher. Compare.
 
 How long does bankruptcy take?
 
@@ -1839,17 +1839,17 @@ Part of the Eastern District of Tennessee. Chattanooga has its own division sepa
 
 Tennessee Exemptions
 
-Choose state or federal exemptions. Federal homestead ($27,900) is typically better for homeowners.
+Choose state or federal exemptions. Federal homestead ($31,575) is typically better for homeowners.
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -1875,7 +1875,7 @@ E.D. Tenn. Chattanooga Division, 900 Georgia Ave, Suite 109, Chattanooga, TN 374
 
 State or federal exemptions?
 
-Your choice. Federal homestead is $27,900 vs state $5,000/$7,500. Compare.
+Your choice. Federal homestead is $31,575 vs state $5,000/$7,500. Compare.
 
 See all FAQ →
 
@@ -2233,7 +2233,7 @@ Under 11 U.S.C. section 523(a)(2)(C), certain recent credit card activity is pre
 
 Luxury goods/services over $800 charged within 90 days before filing
 
-Cash advances over $1,100 within 70 days before filing
+Cash advances over $1,250 within 70 days before filing
 
 These are rebuttable presumptions. The credit card company must file an adversary proceeding to challenge discharge, and you can present evidence that the charges were made with the intent and ability to repay.
 
@@ -2269,7 +2269,7 @@ Yes. Credit card debt is unsecured debt and is generally dischargeable in both C
 
 Will recent credit card charges be discharged?
 
-Charges of over $800 for luxury goods or services within 90 days of filing, and cash advances over $1,100 within 70 days of filing, are presumed non-dischargeable under 11 U.S.C. section 523(a)(2)(C). The creditor must object for this to apply.
+Charges of over $900 for luxury goods or services within 90 days of filing, and cash advances over $1,250 within 70 days of filing, are presumed non-dischargeable under 11 U.S.C. section 523(a)(2)(C). The creditor must object for this to apply.
 
 Can creditors sue me for credit card debt?
 
@@ -2357,7 +2357,7 @@ Using Credit Cards Before Bankruptcy in Tennessee
 
 Stop using credit cards once you decide to file bankruptcy. Charges made near filing can be challenged as fraud - and the presumption works against you.
 
-Quick answer: Do not use credit cards once you decide to file bankruptcy. Luxury purchases over $800 within 90 days and cash advances over $1,100 within 70 days are presumed fraudulent. These debts may survive your discharge.
+Quick answer: Do not use credit cards once you decide to file bankruptcy. Luxury purchases over $900 within 90 days and cash advances over $1,250 within 70 days are presumed fraudulent. These debts may survive your discharge.
 
 The Two Presumption Periods
 
@@ -2429,7 +2429,7 @@ Frequently Asked Questions
 
 Can I use credit cards before filing bankruptcy in Tennessee?
 
-Technically you can, but it is strongly discouraged. Charges made with no intent to repay can be challenged as fraud. Luxury purchases over $800 within 90 days of filing are presumed fraudulent. Cash advances over $1,100 within 70 days are also presumed fraudulent.
+Technically you can, but it is strongly discouraged. Charges made with no intent to repay can be challenged as fraud. Luxury purchases over $900 within 90 days of filing are presumed fraudulent. Cash advances over $1,250 within 70 days are also presumed fraudulent.
 
 What is the 90-day rule for credit cards before bankruptcy?
 
@@ -2437,7 +2437,7 @@ Under 11 U.S.C. section 523(a)(2)(C), charges for luxury goods or services excee
 
 What is the 70-day rule for cash advances?
 
-Cash advances exceeding $1,100 taken within 70 days of filing are presumed non-dischargeable under 11 U.S.C. section 523(a)(2)(C). This includes balance transfers, convenience checks, and ATM cash advances.
+Cash advances exceeding $1,250 taken within 70 days of filing are presumed non-dischargeable under 11 U.S.C. section 523(a)(2)(C). This includes balance transfers, convenience checks, and ATM cash advances.
 
 What counts as a luxury purchase?
 
@@ -3208,7 +3208,7 @@ Chapter 13: In Chapter 13, you keep all your property. Instead of surrendering j
 
 Negotiate with trustee: You may be able to pay the trustee the non-exempt value in cash to keep the jewelry - called "buying back" the asset from the estate.
 
-Federal exemptions: If Tennessee allows the federal exemptions (11 U.S.C. 522(d)), you may get a higher jewelry exemption ($1,875) plus a significant wildcard ($1,475 + up to $13,950 of unused homestead).
+Federal exemptions: If Tennessee allows the federal exemptions (11 U.S.C. 522(d)), you may get a higher jewelry exemption ($2,125) plus a significant wildcard ($1,675 + up to $15,800 of unused homestead).
 
 Frequently Asked Questions
 
@@ -3488,7 +3488,7 @@ Tennessee's homestead exemption protects up to $5,000 of equity in your primary 
 
 Tenn. Code Ann. 26-2-301
 
-Motor Vehicle - No specific vehicle exemption under state law (federal: $4,450)
+Motor Vehicle - No specific vehicle exemption under state law (federal: $5,025)
 
 Protects equity in one motor vehicle up to the exemption limit. If you owe more than the car is worth (you are "underwater"), there is no equity to protect and the exemption is not needed.
 
@@ -3504,7 +3504,7 @@ Tools of trade$1,900
 
 Jewelry$1,500
 
-Wildcard$10,000 (state wildcard); federal: $1,475 + up to $13,950 unused homestead
+Wildcard$10,000 (state wildcard); federal: $1,675 + up to $15,800 unused homestead
 
 Retirement accounts (IRA, 401k, pension)Fully exempt
 
@@ -3518,15 +3518,15 @@ Federal Exemption Alternative
 
 PropertyFederal Exemption
 
-Homestead$27,900
+Homestead$31,575
 
-Vehicle$4,450
+Vehicle$5,025
 
-Household goods$700 per item / $14,875 total
+Household goods$800 per item / $16,850 total
 
-Wildcard$1,475 + up to $13,950 unused homestead
+Wildcard$1,675 + up to $15,800 unused homestead
 
-Tools of trade$2,800
+Tools of trade$3,175
 
 Retirement accountsFully exempt
 
@@ -3542,7 +3542,7 @@ Tennessee's homestead exemption protects up to $5,000 of equity in your primary 
 
 How much vehicle equity can I protect in Tennessee?
 
-Tennessee's motor vehicle exemption is No specific vehicle exemption under state law (federal: $4,450). If your car equity is within that limit, you keep it in Chapter 7.
+Tennessee's motor vehicle exemption is No specific vehicle exemption under state law (federal: $5,025). If your car equity is within that limit, you keep it in Chapter 7.
 
 Does Tennessee allow federal exemptions?
 
@@ -3617,7 +3617,7 @@ Tennessee's homestead exemption protects up to $5,000 / $7,500 of equity in your
 
 Can I keep my car in bankruptcy in Tennessee?
 
-Tennessee protects No specific vehicle exemption under state law (federal: $4,450) in vehicle equity. If your car equity is within the exemption limit, you keep it in Chapter 7. In Chapter 13, you can keep your car and catch up on payments through your plan.
+Tennessee protects No specific vehicle exemption under state law (federal: $5,025) in vehicle equity. If your car equity is within the exemption limit, you keep it in Chapter 7. In Chapter 13, you can keep your car and catch up on payments through your plan.
 
 How long does bankruptcy take?
 
@@ -3985,7 +3985,7 @@ Frequently Asked Questions
 
 What is the difference between Chapter 7 and Chapter 13?
 
-Chapter 7 eliminates most unsecured debt in 3-4 months through liquidation of non-exempt assets. Chapter 13 is a 3-5 year repayment plan for people with regular income. Chapter 7 has income limits (means test); Chapter 13 has debt limits ($2,750,000).
+Chapter 7 eliminates most unsecured debt in 3-4 months through liquidation of non-exempt assets. Chapter 13 is a 3-5 year repayment plan for people with regular income. Chapter 7 has income limits (means test); Chapter 13 has debt limits ($526,700 unsecured, $1,580,125 secured).
 
 What does discharge mean in bankruptcy?
 
@@ -4095,7 +4095,7 @@ Plan length: Above-median income requires a 5-year plan; below-median allows 3-5
 
 Payment amount: Higher income means higher monthly plan payments
 
-Debt limits: Total debts (secured plus unsecured) cannot exceed $2,750,000
+Debt limits: Unsecured debts cannot exceed $526,700; secured debts cannot exceed $1,580,125
 
 Chapter 13 requires regular income - wages, salary, self-employment, Social Security, pension, or other consistent sources.
 
@@ -4121,7 +4121,7 @@ Frequently Asked Questions
 
 What are the income limits for bankruptcy in Tennessee?
 
-For Chapter 7, your household income must be at or below the Tennessee median for your household size, or you must pass the means test expense deduction. Chapter 13 has no income ceiling - anyone with regular income can file. However, Chapter 13 has a debt limit of $2,750,000.
+For Chapter 7, your household income must be at or below the Tennessee median for your household size, or you must pass the means test expense deduction. Chapter 13 has no income ceiling - anyone with regular income can file. However, Chapter 13 has debt limits: $526,700 in unsecured debts and $1,580,125 in secured debts.
 
 What if my income is too high for Chapter 7?
 
@@ -4312,11 +4312,11 @@ PropertyTennessee Exemption
 
 Homestead$5,000 / $7,500
 
-VehicleNo specific vehicle exemption under state law (federal: $4,450)
+VehicleNo specific vehicle exemption under state law (federal: $5,025)
 
 Household goods$4,000 total (state)
 
-Wildcard$10,000 (state wildcard); federal: $1,475 + up to $13,950 unused homestead
+Wildcard$10,000 (state wildcard); federal: $1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exempt
 
@@ -4968,13 +4968,13 @@ Exemption Comparison
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -5087,7 +5087,7 @@ Chapter 7: $1,238-$2,188. Chapter 13: $2,838-$4,363.
 
 State or federal exemptions?
 
-Tennessee lets you choose. Federal homestead ($27,900) is usually better for homeowners. Details.
+Tennessee lets you choose. Federal homestead ($31,575) is usually better for homeowners. Details.
 
 How long does bankruptcy take?
 
@@ -5193,17 +5193,17 @@ The Eastern District also covers Chattanooga (separate division). Knoxville resi
 
 Tennessee Exemptions
 
-Tennessee lets you choose state or federal exemptions. Federal homestead ($27,900) is much higher than state ($5,000/$7,500).
+Tennessee lets you choose state or federal exemptions. Federal homestead ($31,575) is much higher than state ($5,000/$7,500).
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -5229,7 +5229,7 @@ Eastern District of Tennessee, 800 Market St, Suite 330, Knoxville, TN 37902.
 
 State or federal exemptions?
 
-Compare both. Federal homestead ($27,900) is much higher. Details.
+Compare both. Federal homestead ($31,575) is much higher. Details.
 
 See all FAQ →
 
@@ -5817,13 +5817,13 @@ Tennessee allows you to choose between state and federal exemptions. This is a s
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -5839,7 +5839,7 @@ Chapter 7 discharges most unsecured debts including credit cards, medical bills,
 
 Will I lose my car in Chapter 7?
 
-Tennessee's $10,000 wildcard exemption can protect vehicle equity. Alternatively, the federal vehicle exemption is $4,450. If you owe more than the car is worth, you can usually keep it by reaffirming the loan. Learn more.
+Tennessee's $10,000 wildcard exemption can protect vehicle equity. Alternatively, the federal vehicle exemption is $5,025. If you owe more than the car is worth, you can usually keep it by reaffirming the loan. Learn more.
 
 How long does Chapter 7 take in Memphis?
 
@@ -6177,17 +6177,17 @@ State vs. Federal Exemptions
 
 Tennessee is one of the states that lets filers choose between state exemptions and the federal bankruptcy exemptions under 11 U.S.C. section 522(d). You must pick one system - you cannot mix and match.
 
-For many Memphis filers, federal exemptions are the better choice because the federal homestead exemption ($27,900) is much higher than Tennessee's ($5,000/$7,500).
+For many Memphis filers, federal exemptions are the better choice because the federal homestead exemption ($31,575) is much higher than Tennessee's ($5,000/$7,500).
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -6205,11 +6205,11 @@ When to Choose Federal Exemptions
 
 You own a home with equity between $7,500 and $27,900
 
-You need the federal vehicle exemption ($4,450)
+You need the federal vehicle exemption ($5,025)
 
 You are not married (state homestead is only $5,000 for individuals)
 
-You want to stack the unused homestead as wildcard ($1,475 + up to $13,950)
+You want to stack the unused homestead as wildcard ($1,675 + up to $15,800)
 
 Frequently Asked Questions
 
@@ -6308,11 +6308,11 @@ Chapter 7: 10 years from filing. Chapter 13: 7 years from filing. Rebuilding you
 
 Will I lose my house?
 
-It depends on your equity and which exemption system you choose. Tennessee allows federal exemptions ($27,900 homestead). Full guide.
+It depends on your equity and which exemption system you choose. Tennessee allows federal exemptions ($31,575 homestead). Full guide.
 
 Will I lose my car?
 
-Usually not. Tennessee's $10,000 wildcard or federal $4,450 vehicle exemption protects most vehicles. Full guide.
+Usually not. Tennessee's $10,000 wildcard or federal $5,025 vehicle exemption protects most vehicles. Full guide.
 
 What is the 341 meeting?
 
@@ -6446,17 +6446,17 @@ All bankruptcy filings for Memphis and western Tennessee residents are handled h
 
 Tennessee Exemptions at a Glance
 
-Tennessee filers can choose between state and federal exemptions. For Memphis homeowners with significant equity, federal exemptions are often the better choice because the federal homestead exemption ($27,900) far exceeds Tennessee's ($5,000/$7,500).
+Tennessee filers can choose between state and federal exemptions. For Memphis homeowners with significant equity, federal exemptions are often the better choice because the federal homestead exemption ($31,575) far exceeds Tennessee's ($5,000/$7,500).
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -6494,7 +6494,7 @@ Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fee
 
 Will I lose my house filing bankruptcy in Memphis?
 
-Tennessee's homestead exemption is $5,000/$7,500, but you can choose federal exemptions ($27,900 homestead) instead. In Chapter 13, you can keep your home while catching up on payments. Learn more.
+Tennessee's homestead exemption is $5,000/$7,500, but you can choose federal exemptions ($31,575 homestead) instead. In Chapter 13, you can keep your home while catching up on payments. Learn more.
 
 Why is the dismissal rate so high in Memphis?
 
@@ -6576,9 +6576,9 @@ SystemVehicle Protection
 
 Tennessee state$10,000 wildcard (no specific vehicle exemption)
 
-Federal$4,450 vehicle + $1,475 wildcard (+ up to $13,950 unused homestead)
+Federal$5,025 vehicle + $1,675 wildcard (+ up to $15,800 unused homestead)
 
-If you do not own a home, the federal wildcard can protect up to $19,875 in vehicle equity ($4,450 + $1,475 + $13,950).
+If you do not own a home, the federal wildcard can protect up to $19,875 in vehicle equity ($5,025 + $1,675 + $15,800).
 
 Options for Cars with Loans
 
@@ -6908,13 +6908,13 @@ Tennessee allows you to choose between state and federal exemptions.
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -6946,7 +6946,7 @@ Chapter 7: $1,238-$2,188 total. Chapter 13: $2,838-$4,363. Full breakdown.
 
 What exemptions apply?
 
-Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $27,900. Full list.
+Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $31,575. Full list.
 
 Check Your Eligibility
 
@@ -7027,13 +7027,13 @@ Tennessee allows you to choose between state and federal exemptions.
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -7065,7 +7065,7 @@ Chapter 7: $1,238-$2,188 total. Chapter 13: $2,838-$4,363. Full breakdown.
 
 What exemptions apply?
 
-Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $27,900. Full list.
+Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $31,575. Full list.
 
 Check Your Eligibility
 
@@ -7146,13 +7146,13 @@ Tennessee allows you to choose between state and federal exemptions.
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -7184,7 +7184,7 @@ Chapter 7: $1,238-$2,188 total. Chapter 13: $2,838-$4,363. Full breakdown.
 
 What exemptions apply?
 
-Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $27,900. Full list.
+Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $31,575. Full list.
 
 Check Your Eligibility
 
@@ -7265,13 +7265,13 @@ Tennessee allows you to choose between state and federal exemptions.
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -7303,7 +7303,7 @@ Chapter 7: $1,238-$2,188 total. Chapter 13: $2,838-$4,363. Full breakdown.
 
 What exemptions apply?
 
-Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $27,900. Full list.
+Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $31,575. Full list.
 
 Check Your Eligibility
 
@@ -7384,13 +7384,13 @@ Tennessee allows you to choose between state and federal exemptions.
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -7422,7 +7422,7 @@ Chapter 7: $1,238-$2,188 total. Chapter 13: $2,838-$4,363. Full breakdown.
 
 What exemptions apply?
 
-Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $27,900. Full list.
+Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $31,575. Full list.
 
 Check Your Eligibility
 
@@ -7503,13 +7503,13 @@ Tennessee allows you to choose between state and federal exemptions.
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -7541,7 +7541,7 @@ Chapter 7: $1,238-$2,188 total. Chapter 13: $2,838-$4,363. Full breakdown.
 
 What exemptions apply?
 
-Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $27,900. Full list.
+Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $31,575. Full list.
 
 Check Your Eligibility
 
@@ -8249,13 +8249,13 @@ Tennessee allows filers to choose between state and federal exemptions. You must
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -8324,7 +8324,7 @@ Middle District of Tennessee, 701 Broadway, Nashville, TN 37203. Phone: (615) 73
 
 Will I lose my house?
 
-Usually not. Federal homestead exemption is $27,900. Learn more.
+Usually not. Federal homestead exemption is $31,575. Learn more.
 
 Will I lose my car?
 
@@ -8466,13 +8466,13 @@ Tennessee filers can choose between state and federal exemptions. Federal exempt
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -8506,7 +8506,7 @@ Chapter 7: $1,338-$2,388 total. Chapter 13: $2,838-$4,863. Full breakdown.
 
 Will I lose my house?
 
-Not if your equity is within exemptions. Federal homestead: $27,900. Learn more.
+Not if your equity is within exemptions. Federal homestead: $31,575. Learn more.
 
 Where do I file in Nashville?
 
@@ -8586,7 +8586,7 @@ SystemVehicle Protection
 
 Tennessee state$10,000 wildcard
 
-Federal$4,450 vehicle + $1,475 wildcard + up to $13,950 unused homestead
+Federal$5,025 vehicle + $1,675 wildcard + up to $15,800 unused homestead
 
 Options for Cars with Loans
 
@@ -8907,13 +8907,13 @@ Tennessee allows you to choose between state and federal exemptions.
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -8945,7 +8945,7 @@ Chapter 7: $1,238-$2,188 total. Chapter 13: $2,838-$4,363. Full breakdown.
 
 What exemptions apply?
 
-Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $27,900. Full list.
+Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $31,575. Full list.
 
 Check Your Eligibility
 
@@ -9026,13 +9026,13 @@ Tennessee allows you to choose between state and federal exemptions.
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -9064,7 +9064,7 @@ Chapter 7: $1,238-$2,188 total. Chapter 13: $2,838-$4,363. Full breakdown.
 
 What exemptions apply?
 
-Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $27,900. Full list.
+Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $31,575. Full list.
 
 Check Your Eligibility
 
@@ -9145,13 +9145,13 @@ Tennessee allows you to choose between state and federal exemptions.
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -9183,7 +9183,7 @@ Chapter 7: $1,238-$2,188 total. Chapter 13: $2,838-$4,363. Full breakdown.
 
 What exemptions apply?
 
-Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $27,900. Full list.
+Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $31,575. Full list.
 
 Check Your Eligibility
 
@@ -9264,13 +9264,13 @@ Tennessee allows you to choose between state and federal exemptions.
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -9302,7 +9302,7 @@ Chapter 7: $1,238-$2,188 total. Chapter 13: $2,838-$4,363. Full breakdown.
 
 What exemptions apply?
 
-Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $27,900. Full list.
+Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $31,575. Full list.
 
 Check Your Eligibility
 
@@ -9383,13 +9383,13 @@ Tennessee allows you to choose between state and federal exemptions.
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -9421,7 +9421,7 @@ Chapter 7: $1,238-$2,188 total. Chapter 13: $2,838-$4,363. Full breakdown.
 
 What exemptions apply?
 
-Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $27,900. Full list.
+Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $31,575. Full list.
 
 Check Your Eligibility
 
@@ -9502,13 +9502,13 @@ Tennessee allows you to choose between state and federal exemptions.
 
 PropertyTennessee ExemptionFederal Alternative
 
-Homestead$5,000 individual / $7,500 family$27,900
+Homestead$5,000 individual / $7,500 family$31,575
 
-Vehicle$10,000 (wildcard)$4,450
+Vehicle$10,000 (wildcard)$5,025
 
-Household goods$4,000 total$700 per item / $14,875 total
+Household goods$4,000 total$800 per item / $16,850 total
 
-Wildcard$10,000$1,475 + up to $13,950 unused homestead
+Wildcard$10,000$1,675 + up to $15,800 unused homestead
 
 Retirement (IRA/401k)Fully exemptFully exempt
 
@@ -9540,7 +9540,7 @@ Chapter 7: $1,238-$2,188 total. Chapter 13: $2,838-$4,363. Full breakdown.
 
 What exemptions apply?
 
-Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $27,900. Full list.
+Tennessee state or federal exemptions - your choice. State homestead: $5,000/$7,500. Federal homestead: $31,575. Full list.
 
 Check Your Eligibility
 
@@ -10350,7 +10350,7 @@ Retirement Accounts and Bankruptcy in Tennessee
 
 Your retirement savings are among the most protected assets in bankruptcy. ERISA-qualified plans are 100% exempt under federal law, and IRAs are protected up to $1,512,350. Here is what Tennessee filers need to know.
 
-Quick answer: Your 401(k), 403(b), pension, and other ERISA-qualified retirement plans are 100% exempt in bankruptcy - no dollar limit. IRAs (traditional and Roth) are protected up to $1,512,350. Do NOT cash out retirement to pay debts or avoid filing. That converts protected money into unprotected money.
+Quick answer: Your 401(k), 403(b), pension, and other ERISA-qualified retirement plans are 100% exempt in bankruptcy - no dollar limit. IRAs (traditional and Roth) are protected up to $1,711,975. Do NOT cash out retirement to pay debts or avoid filing. That converts protected money into unprotected money.
 
 ERISA Plans: 100% Protected
 
@@ -10372,7 +10372,7 @@ This protection applies nationwide regardless of state exemption choices. The tr
 
 IRAs: Protected Up to $1,512,350
 
-Traditional IRAs and Roth IRAs are protected under 11 U.S.C. section 522(n) up to a combined limit of $1,512,350 (adjusted for inflation). This limit applies to:
+Traditional IRAs and Roth IRAs are protected under 11 U.S.C. section 522(n) up to a combined limit of $1,711,975 (adjusted for inflation). This limit applies to:
 
 Traditional IRAs
 
@@ -10382,7 +10382,7 @@ SEP-IRAs (may receive full ERISA protection if employer-sponsored)
 
 SIMPLE IRAs (may receive full ERISA protection)
 
-Rollover amounts from an ERISA plan into an IRA retain their unlimited ERISA protection - they do not count against the $1,512,350 cap.
+Rollover amounts from an ERISA plan into an IRA retain their unlimited ERISA protection - they do not count against the $1,711,975 cap.
 
 Tennessee-Specific Retirement Protections
 
@@ -10412,7 +10412,7 @@ Yes. ERISA-qualified plans are 100% exempt under federal law. Your 401(k) is com
 
 Are IRAs protected?
 
-Yes, up to $1,512,350 combined for all traditional and Roth IRAs. Rollover amounts from ERISA plans keep their unlimited protection.
+Yes, up to $1,711,975 combined for all traditional and Roth IRAs. Rollover amounts from ERISA plans keep their unlimited protection.
 
 Can I contribute to retirement during Chapter 13?
 
